@@ -1,3 +1,4 @@
 ddddocr>=1.4.3
+pyOpenSSL
 flask_cors
 flask
